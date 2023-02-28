@@ -8,7 +8,7 @@ You can incrase your stats.
 
 Steps to download cookies.
 
-Step 1 - Login to your quora account.
+Step 1 - Login to your quora account. \n
 Step 2 - Open dev tools.
 Step 3 - Go to application tab.
 Step 4 - Select cookies and copy to quora_cookies.csv (name, value, domain)
